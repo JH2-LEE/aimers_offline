@@ -1,0 +1,173 @@
+[I 2023-09-11 12:21:21.949 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.953 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 12:21:21.958 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2023-09-11 12:21:22.182 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-09-11 12:21:22.204 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-09-11 12:21:22.205 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 2023-09-11 12:21:22.205 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2023-09-11 12:21:22.208 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-09-11 12:21:22.209 ServerApp] Serving notebooks from local directory: /root/workspace
+[I 2023-09-11 12:21:22.209 ServerApp] Jupyter Server 1.13.1 is running at:
+[I 2023-09-11 12:21:22.209 ServerApp] http://dacon001:8888/lab
+[I 2023-09-11 12:21:22.209 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2023-09-11 12:21:22.209 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-09-11 12:21:22.212 ServerApp] No web browser found: could not locate runnable browser.
+[W 2023-09-11 12:21:28.217 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-09-11 12:21:28.423 ServerApp] 404 GET /terminals/websocket/1 (121.165.86.243) 28.61ms referer=None
+[W 2023-09-11 12:21:28.654 ServerApp] 404 GET /terminals/websocket/1 (121.165.86.243) 3.43ms referer=None
+[I 2023-09-11 12:21:34.880 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 2023-09-11 12:21:53.739 ServerApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[I 2023-09-11 12:22:08.029 ServerApp] Creating new notebook in 
+[I 2023-09-11 12:22:08.047 ServerApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[I 2023-09-11 12:22:10.443 ServerApp] Kernel started: 7f64fc8a-2a2d-41e8-961b-32a6886a48d5
+[I 2023-09-11 12:24:08.141 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-09-11 13:29:01.858 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-09-11 13:33:01.911 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-09-11 13:34:43.593 ServerApp] Kernel restarted: 7f64fc8a-2a2d-41e8-961b-32a6886a48d5
+[I 2023-09-11 13:35:01.947 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-09-11 13:36:39.993 ServerApp] Kernel restarted: 7f64fc8a-2a2d-41e8-961b-32a6886a48d5
+[I 2023-09-11 13:37:01.987 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-09-11 13:38:54.786 ServerApp] Kernel restarted: 7f64fc8a-2a2d-41e8-961b-32a6886a48d5
+[I 2023-09-11 13:39:02.020 ServerApp] Saving file at /Untitled.ipynb
+2023-09-11 13:39:20.328916: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.330591: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.493918: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.495457: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.497121: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.498535: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.500745: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-11 13:39:20.502057: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.503634: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:20.505268: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:24.470301: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:24.471653: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:24.472882: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2023-09-11 13:39:24.474087: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1510] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 23012 MB memory:  -> device: 0, name: Tesla P40, pci bus id: 0000:00:05.0, compute capability: 6.1
+2023-09-11 13:40:34.102454: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:185] None of the MLIR Optimization Passes are enabled (registered 2)
+[I 2023-09-11 13:40:52.628 ServerApp] Kernel shutdown: 7f64fc8a-2a2d-41e8-961b-32a6886a48d5
+[W 2023-09-11 13:40:54.066 ServerApp] delete /Untitled.ipynb
+[I 2023-09-11 13:40:57.624 ServerApp] EOF on FD 18; stopping reading
+[I 2023-09-11 13:40:57.725 ServerApp] Terminal 1 closed
+not able to serialize: expected string or bytes-like object
+[I 2023-09-11 13:40:57.726 ServerApp] EOF on FD 20; stopping reading
+[I 2023-09-11 13:40:57.826 ServerApp] Terminal 2 closed
+not able to serialize: expected string or bytes-like object
+Websocket closed
+Websocket closed
+[I 2023-09-11 14:08:26.629 ServerApp] 302 GET / (103.80.134.151) 0.78ms
+[I 2023-09-11 14:08:27.151 ServerApp] 302 GET / (103.80.134.231) 0.37ms
+[I 2023-09-11 14:08:27.192 LabApp] 302 GET /lab? (103.80.134.231) 0.68ms
+[W 2023-09-11 14:08:27.597 ServerApp] 404 GET /status.asp (103.80.134.231) 1.18ms referer=None
+[W 2023-09-11 14:08:27.645 ServerApp] 404 GET /status.asp (103.80.134.231) 1.16ms referer=None
+[W 2023-09-11 14:08:27.743 ServerApp] 404 GET /status.asp (103.80.134.231) 1.04ms referer=None
+[W 2023-09-11 14:08:27.821 ServerApp] 404 GET /w/home.asp (103.80.134.231) 0.91ms referer=None
+[W 2023-09-11 14:08:27.932 ServerApp] 404 GET /index.htm (103.80.134.231) 0.91ms referer=None
+[W 2023-09-11 14:08:27.951 ServerApp] 404 GET /index.htm (103.80.134.231) 0.88ms referer=None
+[W 2023-09-11 14:08:27.963 ServerApp] 404 GET /frame.cmo (103.80.134.231) 0.86ms referer=None
+[W 2023-09-11 14:08:28.010 ServerApp] 404 GET /title_bar.html (103.80.134.231) 1.10ms referer=None
+[I 2023-09-11 15:11:48.267 ServerApp] Creating new directory in 
+[I 2023-09-11 15:12:12.364 ServerApp] Uploading file to /open/sample_submission.csv
+[I 2023-09-11 15:12:12.419 ServerApp] Saving file at /open/sample_submission.csv
+[I 2023-09-11 15:12:12.428 ServerApp] Uploading file to /open/brand_keyword_cnt.csv
+[I 2023-09-11 15:12:12.460 ServerApp] Uploading file to /open/product_info.csv
+[I 2023-09-11 15:12:12.972 ServerApp] Saving file at /open/product_info.csv
+[I 2023-09-11 15:12:13.137 ServerApp] Saving file at /open/brand_keyword_cnt.csv
+[I 2023-09-11 15:12:13.144 ServerApp] Uploading file to /open/sales.csv
+[I 2023-09-11 15:12:13.491 ServerApp] Uploading file to /open/train.csv
+[I 2023-09-11 15:12:15.069 ServerApp] Saving file at /open/train.csv
+[I 2023-09-11 15:12:15.692 ServerApp] Saving file at /open/sales.csv
+[I 2023-09-11 15:13:14.196 ServerApp] Uploading file to /open/baseline_lstm_memory_speedup.ipynb
+[W 2023-09-11 15:13:15.305 ServerApp] Notebook open/baseline_lstm_memory_speedup.ipynb is not trusted
+[I 2023-09-11 15:13:15.777 ServerApp] Kernel started: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[I 2023-09-11 15:13:23.540 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 2023-09-11 15:13:31.498 ServerApp] Kernel restarted: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[I 2023-09-11 15:13:31.504 ServerApp] Starting buffering for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:13:31.512 ServerApp] Restoring connection for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:15:14.418 ServerApp] Kernel restarted: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[I 2023-09-11 15:15:14.424 ServerApp] Starting buffering for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:15:14.431 ServerApp] Restoring connection for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:15:15.539 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[W 2023-09-11 15:15:15.542 ServerApp] Notebook open/baseline_lstm_memory_speedup.ipynb is not trusted
+[I 2023-09-11 15:16:16.292 ServerApp] Kernel restarted: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[I 2023-09-11 15:16:16.298 ServerApp] Starting buffering for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:16:16.305 ServerApp] Restoring connection for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:17:15.623 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:18:45.372 ServerApp] Kernel restarted: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[I 2023-09-11 15:18:45.379 ServerApp] Starting buffering for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:18:45.387 ServerApp] Restoring connection for b6752dd2-9cbd-44b1-bc82-108eadac7896:cd99d4df-1b6d-45c9-bf18-6d1c86069b8d
+[I 2023-09-11 15:19:15.723 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:19:24.197 ServerApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[I 2023-09-11 15:21:15.820 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:23:15.944 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:25:16.041 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:27:16.801 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:29:17.798 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:31:17.913 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:33:18.020 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[I 2023-09-11 15:35:18.798 ServerApp] Saving file at /open/baseline_lstm_memory_speedup.ipynb
+[W 2023-09-11 15:35:39.997 ServerApp] delete /open/baseline_submit_colab.csv
+[I 2023-09-11 15:35:42.175 ServerApp] Kernel shutdown: b6752dd2-9cbd-44b1-bc82-108eadac7896
+[W 2023-09-11 15:35:43.203 ServerApp] delete /open/baseline_lstm_memory_speedup.ipynb
+Websocket closed
+Websocket closed
+[I 2023-09-11 15:45:40.043 ServerApp] 302 GET / (112.220.196.146) 0.70ms
+[I 2023-09-11 15:45:40.050 LabApp] 302 GET /lab? (112.220.196.146) 0.70ms
+[C 2023-09-11 16:26:06.226 ServerApp] received signal 15, stopping
+[I 2023-09-11 16:26:06.229 ServerApp] Shutting down 2 extensions
+[I 2023-09-11 16:26:06.229 ServerApp] EOF on FD 32; stopping reading
+[I 2023-09-11 16:26:06.331 ServerApp] Terminal 2 closed
+[I 2023-09-11 16:26:06.331 ServerApp] EOF on FD 42; stopping reading
+[I 2023-09-11 16:26:06.432 ServerApp] Terminal 1 closed
+[I 2023-09-11 16:26:06.432 ServerApp] Shutting down 0 kernels
+[I 2023-09-11 16:26:06.432 ServerApp] Shutting down 0 terminals
+[I 2023-09-11 17:59:07.329 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-09-11 17:59:07.336 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.336 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.336 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.336 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.337 NotebookApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.337 NotebookApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.337 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-11 17:59:07.341 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2023-09-11 17:59:07.986 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-09-11 17:59:08.033 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-09-11 17:59:08.034 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 2023-09-11 17:59:08.034 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2023-09-11 17:59:08.038 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-09-11 17:59:08.038 ServerApp] Serving notebooks from local directory: /root/workspace
+[I 2023-09-11 17:59:08.039 ServerApp] Jupyter Server 1.13.1 is running at:
+[I 2023-09-11 17:59:08.039 ServerApp] http://dacon001:8888/lab
+[I 2023-09-11 17:59:08.039 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2023-09-11 17:59:08.039 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-09-11 17:59:08.043 ServerApp] No web browser found: could not locate runnable browser.
+[W 2023-09-11 17:59:12.833 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-09-11 17:59:18.541 ServerApp] Creating new notebook in /open
+[I 2023-09-11 17:59:19.481 ServerApp] Kernel started: 53268536-03a8-40f0-ac3b-8262a9e4724b
+[I 2023-09-11 17:59:20.003 ServerApp] Starting buffering for 53268536-03a8-40f0-ac3b-8262a9e4724b:60d23f9e-a418-4207-807c-bb7c4dff7e69
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 6d45db8b-65a5-4333-98ed-f079c09e50db
+[I 2023-09-11 17:59:40.641 ServerApp] Kernel shutdown: 53268536-03a8-40f0-ac3b-8262a9e4724b
+[W 2023-09-11 17:59:42.272 ServerApp] delete /open/Untitled.ipynb
+[C 2023-09-11 18:09:31.208 ServerApp] received signal 15, stopping
+[I 2023-09-11 18:09:31.211 ServerApp] Shutting down 2 extensions
+[I 2023-09-11 18:09:31.211 ServerApp] Shutting down 0 kernels
+[I 2023-09-11 18:09:31.213 ServerApp] Shutting down 0 terminals
